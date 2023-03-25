@@ -1,0 +1,40 @@
+html{font-family:"Roboto";
+color:#222;
+line: height 1.4em;
+font: size 110%;
+background-color: white;}
+
+body{margin-top: 0;
+margin-left: 0;
+margin-right: 0;
+margin-bottom: 0;}
+
+
+img{width: 100%;}
+
+
+.logo{width: 160px;align-items: center;}
+.wrapper {max-width: 900px;margin-top: 50%;padding-top: 1.5em;padding-bottom: 1.5em;}
+
+header{padding-top: 1.5em;padding-bottom: 1.5em;}
+
+.nav {padding: 0;text-align: center;}
+
+a{padding-top: .5em;padding-bottom: .5em;padding-left: .75em;padding-right: .75em; border-radius: 8px;}
+
+a:hover,:focus{background-color: white;color:purple;border-radius: 2px;border-color: purple;}
+
+.hero{width:100%;padding-top: 10em;padding-bottom: 10em;background-image: url("../images/greatest-90s-fashion-trends.webp");background-repeat: no-repeat;background-size: cover;background-position: top center;}
+
+h1 .hero{padding: .5em;width:75%;color:white;text-align: center;font-size: 2rem;text-shadow: 2px;background-color: rgba (0,0,0,.25);}
+
+.trends{background-color: purple;}
+.figure element{width:22%;align-items: center;}
+.caption{color:white;font-style: italic;}
+.icon{padding-top: 2em;padding-bottom: 2em;}
+img .icon{width: 260px;float: left;margin-right: 2em;}
+.featured-articles{display: block;}
+
+footer{background-color: black;color: white;text-align: center;padding-top: 8px; bottom: 8px;}
+
+/**Wasn't here this week so there was some material I didn't quite get just yet, tried my best sorry for the inconvenience :)**/
